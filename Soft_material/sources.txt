@@ -1,0 +1,2 @@
+https://github.com/icoxfog417/awesome-text-summarization
+https://machinelearningmastery.com/gentle-introduction-text-summarization/
