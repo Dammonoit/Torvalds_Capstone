@@ -13,6 +13,8 @@
 
  ## **Follow me on:-** [![Twitter][1.1]][1] [![Facebook][1.2]][2]  [![Github][1.3]][3] [![Gitlab][1.4]][4]
  <br/>
+ 
+ 
 ## **What is Word Sense Disambiguation?**
 * In the 1970s, WSD was a subtask of semantic interpretation systems developed within the field of artificial intelligence, starting with Wilks' preference semantics.
 * WSD has been a trending area of research in Natural Language Processing and Machine Learning. WSD is basically solution to the ambiguity which arises due to different meaning of words in different context.
